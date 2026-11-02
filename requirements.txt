@@ -1,0 +1,16 @@
+# Dependencias para Transcriptor_Whisper_LLM
+# Motor de transcripción optimizado (CTranslate2)
+faster-whisper>=1.0.0
+
+# Interfaz Web interactiva
+streamlit>=1.30.0
+
+# Cliente HTTP para APIs de LLM locales (Ollama y LM Studio)
+requests>=2.31.0
+
+# Generador de documentos Word (.docx)
+python-docx>=1.1.0
+
+# Utilidades de procesamiento y barras de progreso
+tqdm>=4.66.0
+numpy>=1.24.0
