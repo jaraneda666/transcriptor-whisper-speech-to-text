@@ -29,5 +29,5 @@ python cli.py --input grabacion.mp3 --model medium --output minuta.md
 
 ---
 
-**Autor:** Security Analyst  
-**Licencia:** Uso Privado / Propietario
+**Autor:** Juan Carlos Araneda M.  
+**Licencia:** MIT License (consulte [LICENSE](LICENSE))
